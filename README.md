@@ -1,6 +1,6 @@
 # Tech-Assignment
 
-The project is a Music Library that uses an Autocomplete component as the search bar. The data is stored in data.json file in the public folder. Users can search the Album or Song names in the search bar and all the details about that Album or Song (such as Album name, Songs in that album, Artist name and Description of the album will be displayed). 
+The project is a Music Library that uses an Autocomplete component as the search bar. The data is stored in data.json file in the public folder. Users can search the Album or Song names (as given in the data provided) in the search bar and all the details about that Album or Song (such as Album name, Songs in that album, Artist name and Description of the album) will be displayed. 
 
 
 ## Installation
