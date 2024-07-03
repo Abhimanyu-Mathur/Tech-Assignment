@@ -14,7 +14,7 @@ Steps to install and set up the project.
    `cd Tech-Assignment`
    
 3. Install the dependencies:
-   `npm start`
+   `npm install`
 
 
 ## Usage
